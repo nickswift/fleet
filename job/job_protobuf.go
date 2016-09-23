@@ -15,7 +15,7 @@
 package job
 
 import (
-	pb "github.com/coreos/fleet/protobuf"
+	pb "github.com/nickswift/fleet/protobuf"
 )
 
 func (u *Unit) ToPB() pb.Unit {

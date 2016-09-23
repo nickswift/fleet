@@ -18,8 +18,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/unit"
 )
 
 func TestFakeRegistryUnitLifecycle(t *testing.T) {

@@ -25,13 +25,13 @@ import (
 
 	"github.com/rakyll/globalconf"
 
-	"github.com/coreos/fleet/agent"
-	"github.com/coreos/fleet/config"
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/pkg"
-	"github.com/coreos/fleet/registry"
-	"github.com/coreos/fleet/server"
-	"github.com/coreos/fleet/version"
+	"github.com/nickswift/fleet/agent"
+	"github.com/nickswift/fleet/config"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/pkg"
+	"github.com/nickswift/fleet/registry"
+	"github.com/nickswift/fleet/server"
+	"github.com/nickswift/fleet/version"
 )
 
 const (

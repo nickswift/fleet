@@ -17,7 +17,7 @@ package platform
 import (
 	"testing"
 
-	"github.com/coreos/fleet/functional/util"
+	"github.com/nickswift/fleet/functional/util"
 )
 
 type Member interface {

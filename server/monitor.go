@@ -18,8 +18,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/coreos/fleet/heart"
-	"github.com/coreos/fleet/log"
+	"github.com/nickswift/fleet/heart"
+	"github.com/nickswift/fleet/log"
 )
 
 func NewMonitor(ttl time.Duration) *Monitor {

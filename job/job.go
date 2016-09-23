@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/coreos/fleet/pkg"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/pkg"
+	"github.com/nickswift/fleet/unit"
 )
 
 type JobState string

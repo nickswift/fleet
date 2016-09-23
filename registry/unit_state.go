@@ -22,9 +22,9 @@ import (
 	etcd "github.com/coreos/etcd/client"
 	"golang.org/x/net/context"
 
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/unit"
 )
 
 const (

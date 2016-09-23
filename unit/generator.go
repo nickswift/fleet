@@ -18,8 +18,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/pkg"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/pkg"
 )
 
 type UnitStateHeartbeat struct {

@@ -26,9 +26,9 @@ import (
 
 	"github.com/jonboulle/clockwork"
 
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/registry"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/registry"
+	"github.com/nickswift/fleet/unit"
 )
 
 func TestUpdateCache(t *testing.T) {

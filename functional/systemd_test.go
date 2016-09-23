@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/systemd"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/systemd"
+	"github.com/nickswift/fleet/unit"
 )
 
 func TestSystemdUnitFlow(t *testing.T) {

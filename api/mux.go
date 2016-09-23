@@ -17,10 +17,10 @@ package api
 import (
 	"net/http"
 
-	"github.com/coreos/fleet/client"
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/registry"
-	"github.com/coreos/fleet/version"
+	"github.com/nickswift/fleet/client"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/registry"
+	"github.com/nickswift/fleet/version"
 
 	"github.com/prometheus/client_golang/prometheus"
 )

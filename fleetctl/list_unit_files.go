@@ -22,8 +22,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/schema"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/schema"
 )
 
 const (

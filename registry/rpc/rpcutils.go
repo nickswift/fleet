@@ -17,9 +17,9 @@ package rpc
 import (
 	sdunit "github.com/coreos/go-systemd/unit"
 
-	"github.com/coreos/fleet/job"
-	pb "github.com/coreos/fleet/protobuf"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/job"
+	pb "github.com/nickswift/fleet/protobuf"
+	"github.com/nickswift/fleet/unit"
 )
 
 func rpcUnitStateToJobState(state pb.TargetState) job.JobState {

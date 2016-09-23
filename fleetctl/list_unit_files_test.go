@@ -17,10 +17,10 @@ package main
 import (
 	"testing"
 
-	"github.com/coreos/fleet/client"
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/schema"
+	"github.com/nickswift/fleet/client"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/schema"
 )
 
 func TestListUnitFilesFieldsToStrings(t *testing.T) {

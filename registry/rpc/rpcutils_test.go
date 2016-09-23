@@ -18,9 +18,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/coreos/fleet/job"
-	pb "github.com/coreos/fleet/protobuf"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/job"
+	pb "github.com/nickswift/fleet/protobuf"
+	"github.com/nickswift/fleet/unit"
 )
 
 const (

@@ -19,7 +19,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/coreos/fleet/log"
+	"github.com/nickswift/fleet/log"
 )
 
 var unavailable = &unavailableHdlr{}

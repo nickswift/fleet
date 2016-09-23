@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"testing"
 
-	pb "github.com/coreos/fleet/protobuf"
+	pb "github.com/nickswift/fleet/protobuf"
 )
 
 func TestUnitFileProtoBuf(t *testing.T) {

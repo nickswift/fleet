@@ -19,12 +19,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/pkg"
-	"github.com/coreos/fleet/registry"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/pkg"
+	"github.com/nickswift/fleet/registry"
+	"github.com/nickswift/fleet/unit"
 )
 
 const (

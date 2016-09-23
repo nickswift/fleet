@@ -17,7 +17,7 @@ package config
 import (
 	"strings"
 
-	"github.com/coreos/fleet/machine"
+	"github.com/nickswift/fleet/machine"
 )
 
 type Config struct {

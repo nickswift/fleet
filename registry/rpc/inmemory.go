@@ -20,9 +20,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/coreos/fleet/debug"
-	pb "github.com/coreos/fleet/protobuf"
-	"github.com/coreos/fleet/registry"
+	"github.com/nickswift/fleet/debug"
+	pb "github.com/nickswift/fleet/protobuf"
+	"github.com/nickswift/fleet/registry"
 )
 
 var DebugInmemoryRegistry bool = false

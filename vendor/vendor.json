@@ -4,7 +4,6 @@
 	"package": [
 		{
 			"checksumSHA1": "Ago2iFSI222alyi9QLe+52KEiRE=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/beorn7/perks/quantile",
 			"path": "github.com/beorn7/perks/quantile",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
@@ -34,158 +33,7 @@
 			"revisionTime": "2016-09-06T23:02:46Z"
 		},
 		{
-			"checksumSHA1": "yC7tKkt1XoOwiX27JtfYRoVuEns=",
-			"path": "github.com/coreos/fleet/agent",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "RmF42CSoZpTlgqwXvSZ4LzzJcqM=",
-			"path": "github.com/coreos/fleet/api",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "z0f2BMtjvPO0cVTDvN/S4XAiWc0=",
-			"path": "github.com/coreos/fleet/client",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "ffWUYFavkITw41g3teAJAVe2FG4=",
-			"path": "github.com/coreos/fleet/config",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "d9nz6QgWM65m60jQFSRTk3x+MHU=",
-			"path": "github.com/coreos/fleet/debug",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "xPlZWpwuGPKSbN7LxpemUAXdmR0=",
-			"path": "github.com/coreos/fleet/engine",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "7NZrnAVD0YtgEDnnKX53xktzzn0=",
-			"path": "github.com/coreos/fleet/fleetd",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "U9fYZlTR4goblNrxkQVtoxQp/kQ=",
-			"path": "github.com/coreos/fleet/functional/platform",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "TMABlDBNLm/6GSEb4t4nR3iOy6M=",
-			"path": "github.com/coreos/fleet/functional/util",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "0HGkMkDb1QxSTiKYUrtKLQzSIh8=",
-			"path": "github.com/coreos/fleet/heart",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "i+Jo/LUPaVLbnQtyezDPKZyJRTU=",
-			"path": "github.com/coreos/fleet/job",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "7a/F+YTqQYwcYKuaWun91gwGOn0=",
-			"path": "github.com/coreos/fleet/log",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "UQzWexrOvpNXFHeUU+QwbGMifg4=",
-			"path": "github.com/coreos/fleet/machine",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "+ubST3V5hrCjnZZ68X7SBL1yym4=",
-			"path": "github.com/coreos/fleet/metrics",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "iQ9bNtvLbw/0EGRjI+5S62vz7kQ=",
-			"path": "github.com/coreos/fleet/pkg",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "BtmAFUDa0kfBZuBTd7mrt/jxwnE=",
-			"path": "github.com/coreos/fleet/pkg/lease",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "aAXVG/DinVrzA2QPAiJrNNCenx0=",
-			"path": "github.com/coreos/fleet/protobuf",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "dydOkvof1wdBx+N6iPzAmQvSKH0=",
-			"path": "github.com/coreos/fleet/registry",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "6OiQuDAPkzYjNXL1ybka+45c8WM=",
-			"path": "github.com/coreos/fleet/registry/rpc",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "jLnyMHic/iLvTSk81Ex81z4RCZA=",
-			"path": "github.com/coreos/fleet/schema",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "UIloO8IlCPYGhzP95Q2q4ael4kg=",
-			"path": "github.com/coreos/fleet/server",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "T+vT1uvoXnX4DLWMuKM+GyYJ2Ns=",
-			"path": "github.com/coreos/fleet/ssh",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "/18oBZLC0409ObjRS/p3JO+TPXU=",
-			"path": "github.com/coreos/fleet/systemd",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "AFHESIk/hnnG1u7UutyPHWpk36c=",
-			"path": "github.com/coreos/fleet/unit",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
-			"checksumSHA1": "sJQHvzffW8Kf71ARImRYBJ6sg+I=",
-			"path": "github.com/coreos/fleet/version",
-			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
-			"revisionTime": "2016-08-31T13:43:25Z"
-		},
-		{
 			"checksumSHA1": "butr+Orbf1fd1hcLqNXYwUDAjcI=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/coreos/go-semver/semver",
 			"path": "github.com/coreos/go-semver/semver",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
@@ -210,57 +58,199 @@
 		},
 		{
 			"checksumSHA1": "j3W8L/nll6CulZjKwMWfJJR4EPs=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/glacjay/goini",
 			"path": "github.com/glacjay/goini",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "2NsgkYHDYSfPzJb4GPnX5+hStcA=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/godbus/dbus",
 			"path": "github.com/godbus/dbus",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "JtrTrPbzayPbvZp2pmi8oJmdPsM=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/gogo/protobuf/gogoproto",
 			"path": "github.com/gogo/protobuf/gogoproto",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "wEaGhH2v4/I/nbbyn7Bxwlexokw=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/gogo/protobuf/proto",
 			"path": "github.com/gogo/protobuf/proto",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "Gq3KUp/tA9/NSjo891IuwLUW4og=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/gogo/protobuf/protoc-gen-gogo/descriptor",
 			"path": "github.com/gogo/protobuf/protoc-gen-gogo/descriptor",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "aX5RdJNpijLobelQrT477TMQ2f8=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/golang/protobuf/proto",
 			"path": "github.com/golang/protobuf/proto",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "HGFNa3FMCGVrUHcic4bUnRPFl9A=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/jonboulle/clockwork",
 			"path": "github.com/jonboulle/clockwork",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "aodj/cITRyuaZSh84DDhrZjh76U=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/matttproud/golang_protobuf_extensions/pbutil",
 			"path": "github.com/matttproud/golang_protobuf_extensions/pbutil",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "yC7tKkt1XoOwiX27JtfYRoVuEns=",
+			"path": "github.com/nickswift/fleet/agent",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "RmF42CSoZpTlgqwXvSZ4LzzJcqM=",
+			"path": "github.com/nickswift/fleet/api",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "z0f2BMtjvPO0cVTDvN/S4XAiWc0=",
+			"path": "github.com/nickswift/fleet/client",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "ffWUYFavkITw41g3teAJAVe2FG4=",
+			"path": "github.com/nickswift/fleet/config",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "d9nz6QgWM65m60jQFSRTk3x+MHU=",
+			"path": "github.com/nickswift/fleet/debug",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "xPlZWpwuGPKSbN7LxpemUAXdmR0=",
+			"path": "github.com/nickswift/fleet/engine",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "7NZrnAVD0YtgEDnnKX53xktzzn0=",
+			"path": "github.com/nickswift/fleet/fleetd",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "U9fYZlTR4goblNrxkQVtoxQp/kQ=",
+			"path": "github.com/nickswift/fleet/functional/platform",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "TMABlDBNLm/6GSEb4t4nR3iOy6M=",
+			"path": "github.com/nickswift/fleet/functional/util",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "0HGkMkDb1QxSTiKYUrtKLQzSIh8=",
+			"path": "github.com/nickswift/fleet/heart",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "i+Jo/LUPaVLbnQtyezDPKZyJRTU=",
+			"path": "github.com/nickswift/fleet/job",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "7a/F+YTqQYwcYKuaWun91gwGOn0=",
+			"path": "github.com/nickswift/fleet/log",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "UQzWexrOvpNXFHeUU+QwbGMifg4=",
+			"path": "github.com/nickswift/fleet/machine",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "+ubST3V5hrCjnZZ68X7SBL1yym4=",
+			"path": "github.com/nickswift/fleet/metrics",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "iQ9bNtvLbw/0EGRjI+5S62vz7kQ=",
+			"path": "github.com/nickswift/fleet/pkg",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "BtmAFUDa0kfBZuBTd7mrt/jxwnE=",
+			"path": "github.com/nickswift/fleet/pkg/lease",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "aAXVG/DinVrzA2QPAiJrNNCenx0=",
+			"path": "github.com/nickswift/fleet/protobuf",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "dydOkvof1wdBx+N6iPzAmQvSKH0=",
+			"path": "github.com/nickswift/fleet/registry",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "6OiQuDAPkzYjNXL1ybka+45c8WM=",
+			"path": "github.com/nickswift/fleet/registry/rpc",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "jLnyMHic/iLvTSk81Ex81z4RCZA=",
+			"path": "github.com/nickswift/fleet/schema",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "UIloO8IlCPYGhzP95Q2q4ael4kg=",
+			"path": "github.com/nickswift/fleet/server",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "T+vT1uvoXnX4DLWMuKM+GyYJ2Ns=",
+			"path": "github.com/nickswift/fleet/ssh",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "/18oBZLC0409ObjRS/p3JO+TPXU=",
+			"path": "github.com/nickswift/fleet/systemd",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "AFHESIk/hnnG1u7UutyPHWpk36c=",
+			"path": "github.com/nickswift/fleet/unit",
+			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
+			"revisionTime": "2016-08-31T13:43:25Z"
+		},
+		{
+			"checksumSHA1": "sJQHvzffW8Kf71ARImRYBJ6sg+I=",
+			"path": "github.com/nickswift/fleet/version",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
@@ -272,49 +262,42 @@
 		},
 		{
 			"checksumSHA1": "R6sl1g/WSXK8//ZwPAdlqi9DiDs=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/prometheus/client_golang/prometheus",
 			"path": "github.com/prometheus/client_golang/prometheus",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "DvwvOlPNAgRntBzt3b3OSRMS2N4=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/prometheus/client_model/go",
 			"path": "github.com/prometheus/client_model/go",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "OFZ6f2tsxQ+pk+wl7474eIxBs80=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/prometheus/common/expfmt",
 			"path": "github.com/prometheus/common/expfmt",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "GP5CS3lUnZ3JAxBWqUj4ZMKU9dg=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
 			"path": "github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "Jx0GXl5hGnO25s3ryyvtdWHdCpw=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/prometheus/common/model",
 			"path": "github.com/prometheus/common/model",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "YjpWN6VxVHIQvsG2GVcuM0mfVjY=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/prometheus/procfs",
 			"path": "github.com/prometheus/procfs",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "pE7B7K+Z+PyaW8NWJgKQb96tYxQ=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/rakyll/globalconf",
 			"path": "github.com/rakyll/globalconf",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
@@ -339,21 +322,18 @@
 		},
 		{
 			"checksumSHA1": "ObsZQrsz80HPyrV1c7z50yAfMPk=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/vishvananda/netlink",
 			"path": "github.com/vishvananda/netlink",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "eW5+RtZGlN6QyOQYUD+LDJyJR+g=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/vishvananda/netlink/nl",
 			"path": "github.com/vishvananda/netlink/nl",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "8jqaP4gRLu5FF/lflPFxaMCng9k=",
-			"origin": "github.com/coreos/fleet/vendor/github.com/vishvananda/netns",
 			"path": "github.com/vishvananda/netns",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
@@ -402,35 +382,30 @@
 		},
 		{
 			"checksumSHA1": "p2EV3iClfIA9Im/Gtx/1bPL0N9E=",
-			"origin": "github.com/coreos/fleet/vendor/golang.org/x/net/http2",
 			"path": "golang.org/x/net/http2",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "EYNaHp7XdLWRydUCE0amEkKAtgk=",
-			"origin": "github.com/coreos/fleet/vendor/golang.org/x/net/http2/hpack",
 			"path": "golang.org/x/net/http2/hpack",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "/k7k6eJDkxXx6K9Zpo/OwNm58XM=",
-			"origin": "github.com/coreos/fleet/vendor/golang.org/x/net/internal/timeseries",
 			"path": "golang.org/x/net/internal/timeseries",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "yhndhWXMs/VSEDLks4dNyFMQStA=",
-			"origin": "github.com/coreos/fleet/vendor/golang.org/x/net/lex/httplex",
 			"path": "golang.org/x/net/lex/httplex",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "WpST9lFOHvWrjDVy0GJNqHe+R3E=",
-			"origin": "github.com/coreos/fleet/vendor/golang.org/x/net/trace",
 			"path": "golang.org/x/net/trace",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
@@ -449,56 +424,48 @@
 		},
 		{
 			"checksumSHA1": "knutgQXy1FvswSpyI9h0urtvPSg=",
-			"origin": "github.com/coreos/fleet/vendor/google.golang.org/grpc",
 			"path": "google.golang.org/grpc",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "08icuA15HRkdYCt6H+Cs90RPQsY=",
-			"origin": "github.com/coreos/fleet/vendor/google.golang.org/grpc/codes",
 			"path": "google.golang.org/grpc/codes",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "a+C+FoyX7Tc4iNFhBndt/y/iPEg=",
-			"origin": "github.com/coreos/fleet/vendor/google.golang.org/grpc/credentials",
 			"path": "google.golang.org/grpc/credentials",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "3Lt5hNAG8qJAYSsNghR5uA1zQns=",
-			"origin": "github.com/coreos/fleet/vendor/google.golang.org/grpc/grpclog",
 			"path": "google.golang.org/grpc/grpclog",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "IlzBp7dylW8F4D7eINj8xHt/jMk=",
-			"origin": "github.com/coreos/fleet/vendor/google.golang.org/grpc/metadata",
 			"path": "google.golang.org/grpc/metadata",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "fGJlPKvpYAZ6+HRX3qScFnZ9dd4=",
-			"origin": "github.com/coreos/fleet/vendor/google.golang.org/grpc/naming",
 			"path": "google.golang.org/grpc/naming",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "3RRoLeH6X2//7tVClOVzxW2bY+E=",
-			"origin": "github.com/coreos/fleet/vendor/google.golang.org/grpc/peer",
 			"path": "google.golang.org/grpc/peer",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"
 		},
 		{
 			"checksumSHA1": "2M6RsUOWdLCr76FB5sahBpf81ZI=",
-			"origin": "github.com/coreos/fleet/vendor/google.golang.org/grpc/transport",
 			"path": "google.golang.org/grpc/transport",
 			"revision": "8c9401b0ce35b210d68dbd5d63ce61311ce4c483",
 			"revisionTime": "2016-08-31T13:43:25Z"

@@ -22,12 +22,12 @@ import (
 	etcd "github.com/coreos/etcd/client"
 	"golang.org/x/net/context"
 
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/pkg/lease"
-	"github.com/coreos/fleet/registry"
-	"github.com/coreos/fleet/systemd"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/pkg/lease"
+	"github.com/nickswift/fleet/registry"
+	"github.com/nickswift/fleet/systemd"
+	"github.com/nickswift/fleet/unit"
 )
 
 type action struct {

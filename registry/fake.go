@@ -20,10 +20,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/pkg/lease"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/pkg/lease"
+	"github.com/nickswift/fleet/unit"
 	"github.com/coreos/go-semver/semver"
 )
 

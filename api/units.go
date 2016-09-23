@@ -22,12 +22,12 @@ import (
 	"path"
 	"strings"
 
-	"github.com/coreos/fleet/client"
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/pkg"
-	"github.com/coreos/fleet/schema"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/client"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/pkg"
+	"github.com/nickswift/fleet/schema"
+	"github.com/nickswift/fleet/unit"
 
 	gsunit "github.com/coreos/go-systemd/unit"
 )

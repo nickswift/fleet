@@ -18,13 +18,13 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/coreos/fleet/client"
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/registry"
-	"github.com/coreos/fleet/schema"
-	"github.com/coreos/fleet/unit"
-	"github.com/coreos/fleet/version"
+	"github.com/nickswift/fleet/client"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/registry"
+	"github.com/nickswift/fleet/schema"
+	"github.com/nickswift/fleet/unit"
+	"github.com/nickswift/fleet/version"
 
 	"github.com/coreos/go-semver/semver"
 )

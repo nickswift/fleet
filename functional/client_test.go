@@ -21,7 +21,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/coreos/fleet/functional/platform"
+	"github.com/nickswift/fleet/functional/platform"
 )
 
 func TestKnownHostsVerification(t *testing.T) {

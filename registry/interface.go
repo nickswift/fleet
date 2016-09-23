@@ -19,9 +19,9 @@ import (
 
 	"github.com/coreos/go-semver/semver"
 
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/unit"
 )
 
 type Registry interface {

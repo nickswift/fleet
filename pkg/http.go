@@ -17,7 +17,7 @@ package pkg
 import (
 	"net/http"
 
-	"github.com/coreos/fleet/log"
+	"github.com/nickswift/fleet/log"
 )
 
 type LoggingHTTPTransport struct {

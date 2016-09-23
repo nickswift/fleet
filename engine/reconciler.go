@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/metrics"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/metrics"
 )
 
 const (

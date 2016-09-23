@@ -19,9 +19,9 @@ import (
 	"net/http"
 	"path"
 
-	"github.com/coreos/fleet/client"
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/schema"
+	"github.com/nickswift/fleet/client"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/schema"
 )
 
 func wireUpStateResource(mux *http.ServeMux, prefix string, tokenLimit int, cAPI client.API) {

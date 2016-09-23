@@ -36,17 +36,17 @@ import (
 
 	etcd "github.com/coreos/etcd/client"
 
-	"github.com/coreos/fleet/api"
-	"github.com/coreos/fleet/client"
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/pkg"
-	"github.com/coreos/fleet/registry"
-	"github.com/coreos/fleet/schema"
-	"github.com/coreos/fleet/ssh"
-	"github.com/coreos/fleet/unit"
-	"github.com/coreos/fleet/version"
+	"github.com/nickswift/fleet/api"
+	"github.com/nickswift/fleet/client"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/pkg"
+	"github.com/nickswift/fleet/registry"
+	"github.com/nickswift/fleet/schema"
+	"github.com/nickswift/fleet/ssh"
+	"github.com/nickswift/fleet/unit"
+	"github.com/nickswift/fleet/version"
 )
 
 const (

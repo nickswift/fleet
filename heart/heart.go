@@ -17,8 +17,8 @@ package heart
 import (
 	"time"
 
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/registry"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/registry"
 )
 
 type Heart interface {

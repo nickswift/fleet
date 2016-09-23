@@ -17,9 +17,9 @@ package schema
 import (
 	gsunit "github.com/coreos/go-systemd/unit"
 
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/machine"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/machine"
+	"github.com/nickswift/fleet/unit"
 )
 
 func MapUnitFileToSchemaUnitOptions(uf *unit.UnitFile) []*UnitOption {

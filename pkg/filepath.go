@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/coreos/fleet/log"
+	"github.com/nickswift/fleet/log"
 )
 
 // ParseFilepath expands ~ and ~user constructions.

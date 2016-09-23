@@ -20,7 +20,7 @@ import (
 
 	etcd "github.com/coreos/etcd/client"
 
-	"github.com/coreos/fleet/pkg"
+	"github.com/nickswift/fleet/pkg"
 )
 
 func TestFilterEtcdEvents(t *testing.T) {

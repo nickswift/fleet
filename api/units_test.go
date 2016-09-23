@@ -25,11 +25,11 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/coreos/fleet/client"
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/registry"
-	"github.com/coreos/fleet/schema"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/client"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/registry"
+	"github.com/nickswift/fleet/schema"
+	"github.com/nickswift/fleet/unit"
 )
 
 func newUnit(t *testing.T, str string) unit.UnitFile {

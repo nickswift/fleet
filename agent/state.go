@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"path"
 
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/log"
-	"github.com/coreos/fleet/machine"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/log"
+	"github.com/nickswift/fleet/machine"
 )
 
 type AgentState struct {

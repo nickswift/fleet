@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coreos/fleet/functional/platform"
-	"github.com/coreos/fleet/functional/util"
+	"github.com/nickswift/fleet/functional/platform"
+	"github.com/nickswift/fleet/functional/util"
 )
 
 // Check that units states do not change on loss of connectivity to etcd.

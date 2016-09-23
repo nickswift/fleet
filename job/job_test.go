@@ -19,8 +19,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/coreos/fleet/pkg"
-	"github.com/coreos/fleet/unit"
+	"github.com/nickswift/fleet/pkg"
+	"github.com/nickswift/fleet/unit"
 )
 
 func newUnit(t *testing.T, str string) *unit.UnitFile {

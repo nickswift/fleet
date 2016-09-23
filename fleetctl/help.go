@@ -21,7 +21,7 @@ import (
 	"text/tabwriter"
 	"text/template"
 
-	"github.com/coreos/fleet/version"
+	"github.com/nickswift/fleet/version"
 	"github.com/spf13/cobra"
 )
 

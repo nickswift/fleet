@@ -15,9 +15,9 @@
 package engine
 
 import (
-	"github.com/coreos/fleet/agent"
-	"github.com/coreos/fleet/job"
-	"github.com/coreos/fleet/machine"
+	"github.com/nickswift/fleet/agent"
+	"github.com/nickswift/fleet/job"
+	"github.com/nickswift/fleet/machine"
 )
 
 type clusterState struct {

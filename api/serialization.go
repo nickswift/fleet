@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/coreos/fleet/log"
+	"github.com/nickswift/fleet/log"
 )
 
 func validateContentType(req *http.Request) error {

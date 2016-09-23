@@ -22,7 +22,7 @@
 //
 package main
 
-import "github.com/coreos/fleet/fleetd"
+import "github.com/nickswift/fleet/fleetd"
 
 func main() {
 	fleetd.Main()
