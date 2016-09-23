@@ -203,7 +203,9 @@ func (c *MachinesListCall) Do() (*MachinePage, error) {
 	urls := googleapi.ResolveRelative(c.s.BasePath, "machines")
 	urls += "?" + params.Encode()
 	req, _ := http.NewRequest("GET", urls, body)
-	googleapi.SetOpaque(req.URL)
+
+	// googleapi.SetOpaque(req.URL)
+
 	req.Header.Set("User-Agent", "google-api-go-client/0.5")
 	res, err := c.s.client.Do(req)
 	if err != nil {
@@ -294,7 +296,9 @@ func (c *UnitStateListCall) Do() (*UnitStatePage, error) {
 	urls := googleapi.ResolveRelative(c.s.BasePath, "state")
 	urls += "?" + params.Encode()
 	req, _ := http.NewRequest("GET", urls, body)
-	googleapi.SetOpaque(req.URL)
+
+	// googleapi.SetOpaque(req.URL)
+
 	req.Header.Set("User-Agent", "google-api-go-client/0.5")
 	res, err := c.s.client.Do(req)
 	if err != nil {
@@ -512,7 +516,9 @@ func (c *UnitsListCall) Do() (*UnitPage, error) {
 	urls := googleapi.ResolveRelative(c.s.BasePath, "units")
 	urls += "?" + params.Encode()
 	req, _ := http.NewRequest("GET", urls, body)
-	googleapi.SetOpaque(req.URL)
+
+	// googleapi.SetOpaque(req.URL)
+
 	req.Header.Set("User-Agent", "google-api-go-client/0.5")
 	res, err := c.s.client.Do(req)
 	if err != nil {
